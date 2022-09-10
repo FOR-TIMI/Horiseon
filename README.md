@@ -12,7 +12,7 @@ This website offers digital Marketing services like
 * CSS
 
 ## Website
-https://for-timi.github.io/develop/index.html
+https://for-timi.github.io/Horiseon/
 
 ## Contribution
 Made with ❤️ by Horiseon
