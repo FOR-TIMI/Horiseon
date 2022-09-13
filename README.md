@@ -1,7 +1,7 @@
 # Horiseon
 
 
-## Purpose
+## Description
 This website offers digital Marketing services like
 * Search engine optimization
 * Online reputation management
