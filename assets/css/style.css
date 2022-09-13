@@ -6,6 +6,7 @@
     margin: 0;
 }
 
+/* To set background color to the body */
 body {
     background-color: #d9dcd6;
 }
@@ -18,15 +19,18 @@ body {
     color: #ffffff;
 }
 
+/* To select nav child h1 */
 nav > h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* To select nav child h1 with seo class*/
 nav > h1 .seo {
     color: #d9dcd6;
 }
 
+/* To set the header div */
 header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -165,24 +169,24 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* search engine optimization image */
 .search-engine-optimization img {
     max-height: 200px;
 }
-
+/* online reputation management image */
 .online-reputation-management img {
     max-height: 200px;
 }
-
+/* social media marketing image */
 .social-media-marketing img {
     max-height: 200px;
 }
-
+/* search engine optimization h2 */
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* online reputation management h2 */
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
